@@ -1,0 +1,19 @@
+:local {
+  .web3connectButton {
+    width: 200px;
+  }
+
+  .buttonCaption {
+    display: inline-block;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+  }
+
+  .buttonSpinner {
+    position: absolute;
+    right: 10px;
+  }
+}

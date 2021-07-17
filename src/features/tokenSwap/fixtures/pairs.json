@@ -1,0 +1,1702 @@
+[
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x3a856d4effa670c54585a5d523e96513e148e95d",
+            "symbol": "TRIAS"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x56573775e32d9568326304fdbaab77b398d9b924",
+        "reserveUSD": "2557728342232128986.85289880789691"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+            "symbol": "FEI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x94b0a3d511b6ecdb17ebf877278ab030acb0a878",
+        "reserveUSD": "341101499.3169080350523459701480384"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+            "symbol": "FEI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+            "symbol": "TRIBE"
+        },
+        "__typename": "Pair",
+        "id": "0x9928e4046d7c6513326ccea028cd3e7a91c7590a",
+        "reserveUSD": "329605585.9292411927785394570457851"
+    },
+    {
+        "token0": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+        "reserveUSD": "292972146.0299120599305075117027185"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+        "reserveUSD": "260496577.7989670053350507030267372"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+            "symbol": "WISE"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x21b8065d10f73ee2e260e5b47d3344d3ced7596e",
+        "reserveUSD": "215331445.8155706653318717079067958"
+    },
+    {
+        "token0": {
+            "decimals": 12,
+            "__typename": "Token",
+            "id": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+            "symbol": "HANU"
+        },
+        "token1": {
+            "decimals": 10,
+            "__typename": "Token",
+            "id": "0x8d52061af43c52204c717d0610ea8f52f955ce0b",
+            "symbol": "MIA"
+        },
+        "__typename": "Pair",
+        "id": "0x48918f57fa7210ea7b20f23da8420e68df3578fe",
+        "reserveUSD": "134919649.003971635374586471590526"
+    },
+    {
+        "token0": {
+            "decimals": 12,
+            "__typename": "Token",
+            "id": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+            "symbol": "HANU"
+        },
+        "token1": {
+            "decimals": 10,
+            "__typename": "Token",
+            "id": "0xec4a1c7a4e9fdc7cc621b548a931c92bc08a679a",
+            "symbol": "GOJ"
+        },
+        "__typename": "Pair",
+        "id": "0x93512394a82d278b9961e3891a59c6dc1c2e4f98",
+        "reserveUSD": "134099282.783790305367591996741189"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "symbol": "WBTC"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+        "reserveUSD": "131732750.1871684989074969688272828"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x965d79f1a1016b574a62986e13ca8ab04dfdd15c",
+            "symbol": "M2"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+            "symbol": "wPE"
+        },
+        "__typename": "Pair",
+        "id": "0x9816f26f43c4c02df0daae1a0ba6a4dcd30b8ab7",
+        "reserveUSD": "123766563.68427952225160558584133"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x4c8c259962982aad9b7a594345daa3edef865132",
+            "symbol": "BHT"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xaf4bc7927721ec88ac507889309f5f62a0c8c537",
+            "symbol": "BHC"
+        },
+        "__typename": "Pair",
+        "id": "0x9db1812a086f12875389128f344fa467cb1453d7",
+        "reserveUSD": "118385359.6958894221189442596851948"
+    },
+    {
+        "token0": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xc8c97d9b0af219c2329a0179f6ab8c7a55b39fc1",
+            "symbol": "HKMT"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0xf52f433b79d21023af94251958bed3b64a2b7930",
+        "reserveUSD": "99464896.49115453912943623473780205"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "symbol": "UNI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+        "reserveUSD": "90762624.9942755948351141483929378"
+    },
+    {
+        "token0": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0x3041cbd36888becc7bbcbc0045e3b1f144466f5f",
+        "reserveUSD": "75186413.51602665492229014113605667"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x1f6b579a672590ab6115de803ee4bc81ec4e79f1",
+            "symbol": "MT"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x76306f029f8f99effe509534037ba7030999e3cf",
+            "symbol": "ACR"
+        },
+        "__typename": "Pair",
+        "id": "0x3c92befe32cdf5564ff2f3092edacb9f9e40d508",
+        "reserveUSD": "73958290.77923385661217139077813276"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x97c4adc5d28a86f9470c70dd91dc6cc2f20d2d4d",
+        "reserveUSD": "73537139.07311217615644520025949702"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
+        "reserveUSD": "73262524.7667842670500843862512964"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+            "symbol": "MIR"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x87da823b6fc8eb8575a235a824690fda94674c88",
+        "reserveUSD": "72653104.65232070764310733684166274"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
+            "symbol": "FNK"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0x61b62c5d56ccd158a38367ef2f539668a06356ab",
+        "reserveUSD": "49710430.21452780781384914142821467"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+            "symbol": "LINK"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974",
+        "reserveUSD": "43148442.47562537173961277776634886"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+            "symbol": "DPI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x4d5ef58aac27d99935e5b6b4a6778ff292059991",
+        "reserveUSD": "39536269.63924138354442179599302921"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x35a532d376ffd9a705d0bb319532837337a398e7",
+            "symbol": "WDOGE"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xc3d7aa944105d3fafe07fc1822102449c916a8d0",
+        "reserveUSD": "37073062.56756827812590947160195076"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+            "symbol": "wPE"
+        },
+        "__typename": "Pair",
+        "id": "0x75f89ffbe5c25161cbc7e97c988c9f391eaefaf9",
+        "reserveUSD": "35748054.57616735061622996625545634"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+            "symbol": "MKR"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xc2adda861f89bbb333c90c492cb837741916a225",
+        "reserveUSD": "32325001.97574623618159108544878707"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+            "symbol": "DELTA"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x7d7e813082ef6c143277c71786e5be626ec77b20",
+        "reserveUSD": "30489305.95703034732062852289819855"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+            "symbol": "BOND"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x6591c4bcd6d7a1eb4e537da8b78676c1576ba244",
+        "reserveUSD": "29730725.46906808760354227609716532"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+            "symbol": "HEZ"
+        },
+        "__typename": "Pair",
+        "id": "0x23d15edceb5b5b3a23347fa425846de80a2e8e5c",
+        "reserveUSD": "28150847.40786112559504692154232242"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xfd0a40bc83c5fae4203dec7e5929b446b07d1c76",
+        "reserveUSD": "27893732.84870524423404153221304344"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "symbol": "AAVE"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xdfc14d2af169b0d36c4eff567ada9b2e0cae044f",
+        "reserveUSD": "27755777.40528451817716842591426448"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x1df2099f6abbf0b05c12a61835137d84f10daa96",
+            "symbol": "RK:ETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+            "symbol": "ROOT"
+        },
+        "__typename": "Pair",
+        "id": "0x0617d5ffb29c03ac35f1863b8a50ce1b52d446f6",
+        "reserveUSD": "26337659.34152459514159234078454756"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x3383c5a8969dc413bfddc9656eb80a1408e4ba20",
+            "symbol": "wANATHA"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x85609c626b532ca8bea6c36be53afdcb15dd4a48",
+        "reserveUSD": "24474676.15736954826230824521041569"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+            "symbol": "FXS"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX"
+        },
+        "__typename": "Pair",
+        "id": "0xe1573b9d29e2183b1af0e743dc2754979a40d237",
+        "reserveUSD": "24257250.4582277380050981536282642"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9",
+            "symbol": "CARDS"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x94ae6d2390680ac6e6ee6069be42067d6ad72e2a",
+        "reserveUSD": "21862479.39667593262222452496749732"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5",
+        "reserveUSD": "21035403.77498039739324053423675108"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+            "symbol": "RAI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x8ae720a71622e824f576b4a8c03031066548a3b1",
+        "reserveUSD": "20653094.17011853650960075626007701"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0698dda3c390ff92722f9eed766d8b1727621df9",
+            "symbol": "ETH2POS"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xb4056171aa3ba32da1f527431383619b3802802c",
+            "symbol": "DC"
+        },
+        "__typename": "Pair",
+        "id": "0xe2f95dae6c5763c357447fe1ffb3f2a884bdc0b5",
+        "reserveUSD": "20148796.56825519496754352733265861"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+            "symbol": "⚗️"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xcd6bcca48069f8588780dfa274960f15685aee0e",
+        "reserveUSD": "18962653.12641554816031300353240522"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x13b02c8de71680e71f0820c996e4be43c2f57d15",
+            "symbol": "mQQQ"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x9e3b47b861b451879d43bba404c35bdfb99f0a6c",
+        "reserveUSD": "18892220.60355015055223309482282561"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+            "symbol": "SAND"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74",
+        "reserveUSD": "18877705.10045505698099712090340001"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xd36932143f6ebdedd872d5fb0651f4b72fd15a84",
+            "symbol": "mAAPL"
+        },
+        "__typename": "Pair",
+        "id": "0xb022e08adc8ba2de6ba4fecb59c6d502f66e953b",
+        "reserveUSD": "18732046.7834326071490964080928749"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
+            "symbol": "mAMZN"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x0ae8cb1f57e3b1b7f4f5048743710084aa69e796",
+        "reserveUSD": "17926634.95305873499773587928328849"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x1d350417d9787e000cc1b95d70e9536dcd91f373",
+            "symbol": "mIAU"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0xd7f97aa0317c08a1f5c2732e7894933f11724868",
+        "reserveUSD": "17677014.84153749248981298308220383"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
+            "symbol": "mGOOGL"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x4b70ccd1cf9905be1faed025eadbd3ab124efe9a",
+        "reserveUSD": "17536184.49812059294346739229548153"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676",
+            "symbol": "mSLV"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x860425be6ad1345dc7a3e287facbf32b18bc4fae",
+        "reserveUSD": "17368299.43235026857271129345136656"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+            "symbol": "mTWTR"
+        },
+        "__typename": "Pair",
+        "id": "0x34856be886a2dba5f7c38c4df7fd86869ab08040",
+        "reserveUSD": "17094718.37164928426477303089642647"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd",
+            "symbol": "mNFLX"
+        },
+        "__typename": "Pair",
+        "id": "0xc99a74145682c4b4a6e9fa55d559eb49a6884f75",
+        "reserveUSD": "16987129.04888050805696438753711497"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x31c63146a635eb7465e5853020b39713ac356991",
+            "symbol": "mUSO"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x6bd8ca9d141aa95842b41e1431a244c309c9008c",
+        "reserveUSD": "16869685.41997380189640405880524064"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x41bbedd7286daab5910a1f15d12cbda839852bd7",
+            "symbol": "mMSFT"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0xeafad3065de347b910bb88f09a5abe580a09d655",
+        "reserveUSD": "16488789.58381394914515063012860774"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x56aa298a19c93c6801fdde870fa63ef75cc0af72",
+            "symbol": "mBABA"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x676ce85f66adb8d7b8323aeefe17087a3b8cb363",
+        "reserveUSD": "16016242.2591483627459799390222979"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+            "symbol": "RLY"
+        },
+        "__typename": "Pair",
+        "id": "0x27fd0857f0ef224097001e87e61026e39e1b04d1",
+        "reserveUSD": "15789087.73828620703525947951273275"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86",
+            "symbol": "mVIXY"
+        },
+        "__typename": "Pair",
+        "id": "0x6094367ea57ff4f545e2672e024393d82a1d3f28",
+        "reserveUSD": "15741695.56615493808209624738189466"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x21ca39943e91d704678f5d00b6616650f066fd63",
+            "symbol": "mTSLA"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "__typename": "Pair",
+        "id": "0x5233349957586a8207c52693a959483f9aeaa50c",
+        "reserveUSD": "15534571.2211149722149604096578394"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x292e57d8c8a5744e5b013c0f327c162dd1c18d29",
+            "symbol": "DBL"
+        },
+        "token1": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0xbd9d26e318d329962694b6e09de628f6104a0606",
+            "symbol": "BLUE"
+        },
+        "__typename": "Pair",
+        "id": "0xc86881ef494b049fe3e624ae6fdf542f58ab1931",
+        "reserveUSD": "14999413.41999106095377927974435271"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+            "symbol": "PAXG"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+            "symbol": "PAX"
+        },
+        "__typename": "Pair",
+        "id": "0x709f7b10f22eb62b05913b59b92ddd372d4e2152",
+        "reserveUSD": "14943419.48463821997765644520385782"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0000000000095413afc295d19edeb1ad7b71c952",
+            "symbol": "LON"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x7924a818013f39cf800f5589ff1f1f0def54f31f",
+        "reserveUSD": "14762459.85103902467521097950148547"
+    },
+    {
+        "token0": {
+            "decimals": 7,
+            "__typename": "Token",
+            "id": "0x11e003e9ecc5a2320e8b11098acd550b928b6df2",
+            "symbol": "XXi"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x0af81cd5d9c124b4859d65697a4cd10ee223746a",
+        "reserveUSD": "14600790.25390218085549981513725175"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+            "symbol": "renBTC"
+        },
+        "__typename": "Pair",
+        "id": "0x81fbef4704776cc5bba0a5df3a90056d2c6900b3",
+        "reserveUSD": "14117584.39118518036514811575965334"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+            "symbol": "EVN"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x29f07e631a2f990e1f6117c6285a44e746b1f090",
+        "reserveUSD": "13437337.0333401581974493315755407"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+            "symbol": "HEX"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0xf6dcdce0ac3001b2f67f750bc64ea5beb37b5824",
+        "reserveUSD": "11458646.24859580743603518170341489"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x77777feddddffc19ff86db637967013e6c6a116c",
+            "symbol": "TORN"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x0c722a487876989af8a05fffb6e32e45cc23fb3a",
+        "reserveUSD": "10340667.88254394598981903819438712"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+            "symbol": "SUPER"
+        },
+        "__typename": "Pair",
+        "id": "0x25647e01bd0967c1b9599fa3521939871d1d0888",
+        "reserveUSD": "10275210.59530570804535825448454492"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+            "symbol": "PAX"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x598e7a017dace2534bc3f7496124c89425b1e165",
+        "reserveUSD": "10115943.27278029081862804857602849"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+            "symbol": "POLS"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
+        "reserveUSD": "9925635.806359444136370348618565056"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+            "symbol": "GOVI"
+        },
+        "__typename": "Pair",
+        "id": "0x1ee312a6d5fe7b4b8c25f0a32fca6391209ebebf",
+        "reserveUSD": "9169641.161109397900511155899283169"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 9,
+            "__typename": "Token",
+            "id": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+            "symbol": "AMPL"
+        },
+        "__typename": "Pair",
+        "id": "0xc5be99a02c6857f9eac67bbce58df5572498f40c",
+        "reserveUSD": "9031617.061897459780427042988012982"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+            "symbol": "PAXG"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x9c4fe5ffd9a9fc5678cfbd93aa2d4fd684b67c4c",
+        "reserveUSD": "8824656.728251018105003845170733326"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+            "symbol": "WAXE"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x0ee0cb563a52ae1170ac34fbb94c50e89adde4bd",
+        "reserveUSD": "8322387.800071578179341672365925626"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+            "symbol": "DAO"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x4cd36d6f32586177e36179a810595a33163a20bf",
+        "reserveUSD": "8085822.994973763060577392046064041"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+            "symbol": "WOO"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x6ada49aeccf6e556bb7a35ef0119cc8ca795294a",
+        "reserveUSD": "8001972.088033204405167807046544954"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0xb20bd5d04be54f870d5c0d3ca85d82b34b836405",
+        "reserveUSD": "7755220.459786560088181738827624185"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+            "symbol": "MCB"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x10cfa744c77f1cb9a77fa418ac4a1b6ec62bcce4",
+        "reserveUSD": "7502971.446718106207884175282708225"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x4206931337dc273a630d328da6441786bfad668f",
+            "symbol": "DOGE"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xc0067d751fb1172dbab1fa003efe214ee8f419b6",
+        "reserveUSD": "7078381.947404626417577956788774173"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x4206931337dc273a630d328da6441786bfad668f",
+            "symbol": "DOGE"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0xfcd13ea0b906f2f87229650b8d93a51b2e839ebd",
+        "reserveUSD": "7023147.611318859338752749896464714"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0275e1001e293c46cfe158b3702aade0b99f88a5",
+            "symbol": "OIL"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x0e9c8107682ab88604b4fbf847eeeceacf38e9e6",
+        "reserveUSD": "6993514.363474947812908023712376993"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x53c8395465a84955c95159814461466053dedede",
+            "symbol": "DG"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x873056a02255872514f05249d93228d788fe4fb4",
+        "reserveUSD": "6716760.484362291342710927550570478"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x7ff4169a6b5122b664c51c95727d87750ec07c84",
+            "symbol": "10SET"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x5f6fbe81171d0f52cc58d6a2ac6ee1a9e52d18d2",
+        "reserveUSD": "6515236.699849811098544993465211433"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
+            "symbol": "SHEESHA"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x602414a63c90801dc4337ee440b3454a6d2c275b",
+        "reserveUSD": "6396109.336206006574586553390189754"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+            "symbol": "MATIC"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x819f3450da6f110ba6ea52195b3beafa246062de",
+        "reserveUSD": "6203431.57437171893118412024020141"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+            "symbol": "POOL"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x85cb0bab616fe88a89a35080516a8928f38b518b",
+        "reserveUSD": "6111234.916000336013846403244616064"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+            "symbol": "KEEP"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xe6f19dab7d43317344282f803f8e8d240708174a",
+        "reserveUSD": "6105961.722076868982856368480184025"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+            "symbol": "PERP"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xf66369997ae562bc9eec2ab9541581252f9ca383",
+        "reserveUSD": "6075676.906589782819640355620280181"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xb34ab2f65c6e4f764ffe740ab83f982021faed6d",
+            "symbol": "BSG"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x9bca245cf99812e67a79900cc77e4b73f45e1df6",
+        "reserveUSD": "5999619.00523718217993953374935377"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+            "symbol": "FLX"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xd6f3768e62ef92a9798e5a8cedd2b78907cecef9",
+        "reserveUSD": "5883513.840692449314073815563984971"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+            "symbol": "BBTC"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xfbb3815a3f7da273da56410d711281699cb1c7d1",
+        "reserveUSD": "5849023.350593230072376983962290615"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+            "symbol": "BAT"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xb6909b960dbbe7392d405429eb2b3649752b4838",
+        "reserveUSD": "5756766.511025104051859663245503488"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
+            "symbol": "LMT"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
+            "symbol": "LYM"
+        },
+        "__typename": "Pair",
+        "id": "0x55392db5e661c749d7af4553a271e4f561f8f7eb",
+        "reserveUSD": "5743592.501870031528938565915735139"
+    },
+    {
+        "token0": {
+            "decimals": 15,
+            "__typename": "Token",
+            "id": "0x7c8155909cd385f120a56ef90728dd50f9ccbe52",
+            "symbol": "NII"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xa0787e87b10c9b1b88d75915ac8ec5608ac6d054",
+        "reserveUSD": "5611929.258437766488821471433630662"
+    },
+    {
+        "token0": {
+            "decimals": 8,
+            "__typename": "Token",
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "symbol": "WBTC"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+            "symbol": "BADGER"
+        },
+        "__typename": "Pair",
+        "id": "0xcd7989894bc033581532d2cd88da5db0a4b12859",
+        "reserveUSD": "5584910.586357672396340703554993318"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "symbol": "UST"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "__typename": "Pair",
+        "id": "0xc50ef7861153c51d383d9a7d48e6c9467fb90c38",
+        "reserveUSD": "5574809.372453964723781468005286043"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+            "symbol": "ETH2x-FLI"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xf91c12dae1313d0be5d7a27aa559b1171cc1eac5",
+        "reserveUSD": "5554280.288943621237382703871439301"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+            "symbol": "COMP"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xcffdded873554f362ac02f8fb1f02e5ada10516f",
+        "reserveUSD": "5483391.431053311697087293210843747"
+    },
+    {
+        "token0": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+            "symbol": "ZKS"
+        },
+        "__typename": "Pair",
+        "id": "0xd3d8c734f06229e36febd07505d8f57b7b78af7c",
+        "reserveUSD": "5478392.791556303610194315277525972"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa0afaa285ce85974c3c881256cb7f225e3a1178a",
+            "symbol": "wCRES"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xf650233ec6ea1c6717ac4f409f09e6c9ebc8c4d2",
+        "reserveUSD": "5368569.552087152467651303635097859"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xe61fdaf474fac07063f2234fb9e60c1163cfa850",
+            "symbol": "COIN"
+        },
+        "__typename": "Pair",
+        "id": "0xff62e62e8b3cf80050464b86194e52c3ead43bb6",
+        "reserveUSD": "5346427.607849427137491614564444204"
+    },
+    {
+        "token0": {
+            "decimals": 9,
+            "__typename": "Token",
+            "id": "0x389999216860ab8e0175387a0c90e5c52522c945",
+            "symbol": "FEG"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x854373387e41371ac6e307a1f29603c6fa10d872",
+        "reserveUSD": "5215468.948340391400496380299777094"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+            "symbol": "FARM"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x56feaccb7f750b997b36a68625c7c596f0b41a58",
+        "reserveUSD": "5146637.410258311267124928505173262"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xe1030b48b2033314979143766d7dc1f40ef8ce11",
+            "symbol": "PEEPS"
+        },
+        "__typename": "Pair",
+        "id": "0x6cbcd84abcfbb411426dc21a621fe9a68b985bf4",
+        "reserveUSD": "5034984.302366541230945824789067936"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76",
+            "symbol": "RENA"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0xbc2c5392b0b841832bec8b9c30747badda7b70ca",
+        "reserveUSD": "5019941.106076286915460054084053143"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+            "symbol": "RAD"
+        },
+        "token1": {
+            "decimals": 6,
+            "__typename": "Token",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC"
+        },
+        "__typename": "Pair",
+        "id": "0x8c1c499b1796d7f3c2521ac37186b52de024e58c",
+        "reserveUSD": "4996648.520228592678718676549353633"
+    },
+    {
+        "token0": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+            "symbol": "SHIB"
+        },
+        "token1": {
+            "decimals": 18,
+            "__typename": "Token",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+        },
+        "__typename": "Pair",
+        "id": "0x811beed0119b4afce20d2583eb608c6f7af1954f",
+        "reserveUSD": "4885515.863713265233046898522698441"
+    }
+]
