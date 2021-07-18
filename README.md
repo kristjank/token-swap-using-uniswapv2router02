@@ -2,6 +2,10 @@
 
 Token swap UI that interfaces with the [UniswapV2Router02 contract][uniswapv2router02].
 
+![screenshot](screenshot.png)
+
+Live [Cloudflare IPFS Gateway][cloudflare-ipfs-gateway] deployment: https://myopicmanoeuvre.cyou
+
 It's implemented as a [create-react-app] application that uses...
 - [web3-react] to obtain the injected web3 provider (typically MetaMask)
 - [@apollo/client] for fetching token pair data from the UniswapV2 [subgraph][uniswapv2-subgraph]
@@ -75,6 +79,7 @@ npx hardhat test tests/tokenSwapApi.ts
 ```
 
 [uniswapv2router02]: https://uniswap.org/docs/v2/smart-contracts/router02/
+[cloudflare-ipfs-gateway]: https://developers.cloudflare.com/distributed-web/ipfs-gateway
 [create-react-app]: https://github.com/facebook/create-react-app
 [web3-react]: https://github.com/NoahZinsmeister/web3-react
 [@apollo/client]: https://www.apollographql.com/docs/react/
