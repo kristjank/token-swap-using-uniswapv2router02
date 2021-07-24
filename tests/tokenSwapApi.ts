@@ -55,8 +55,6 @@ describe('Token swap API', () => {
   let WETH: IERC20
   let DAI_USDC: IUniswapV2Pair
   let mockDAI: Contract
-  let mockUSDC: Contract
-  let mockWETH: Contract
   let mockDAI_USDC: Contract
 
   before(async () => {
@@ -78,8 +76,6 @@ describe('Token swap API', () => {
 
   beforeEach(async () => {
     mockDAI = await smockit(DAI)
-    mockUSDC = await smockit(USDC)
-    mockWETH = await smockit(WETH)
     mockDAI_USDC = await smockit(DAI_USDC)
   })
 
